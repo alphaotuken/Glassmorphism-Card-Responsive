@@ -1,7 +1,7 @@
 # Glassmorphism Card Responsive
 ### BY TALO
 
-<a href="https://alphaotuken.github.io/Responsive-Hover-Card/"><strong>➥ Live Demo</strong></a>
+<a href="https://alphaotuken.github.io/Glassmorphism-Card-Responsive/"><strong>➥ Live Demo</strong></a>
 
 - Beautiful and simple responsive cards with Glass Morphism ui style, using Html and Css.
 
