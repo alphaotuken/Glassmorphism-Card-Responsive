@@ -1,6 +1,16 @@
 # Glassmorphism Card Responsive
-## [Watch it on youtube](https://youtu.be/XIbWQYoEnCk)
-### Glassmorphism Card Responsive
-Beautiful and simple responsive cards with Glass Morphism ui style, using Html and Css.
+### BY TALO
 
-Don't forget to join the channel for more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
+<a href="https://alphaotuken.github.io/Responsive-Hover-Card/"><strong>➥ Live Demo</strong></a>
+
+- Beautiful and simple responsive cards with Glass Morphism ui style, using Html and Css.
+
+![preview img](/preview.png)
+
+### Contact
+
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/taloisik).
+
+### License
+
+This project contains the MIT Licence 
